@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  background: black;
+  color: #00ff66;
+  font-family: "Courier New", monospace;
+}
+
+#terminal {
+  padding: 20px;
+  height: 100vh;
+  overflow-y: auto;
+}
+
+#banner {
+  color: #00ff66;
+}
+
+.input-line {
+  display: flex;
+}
+
+.prompt {
+  margin-right: 8px;
+}
+
+input {
+  background: transparent;
+  border: none;
+  color: #00ff66;
+  outline: none;
+  width: 100%;
+  font-family: inherit;
+}
+.line {
+  margin: 4px 0;
+}
+
