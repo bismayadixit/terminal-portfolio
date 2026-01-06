@@ -4,7 +4,8 @@ This project is a **Terminal-style portfolio website** built using basic fronten
 The goal of this project is to simulate a command-line experience inside a web browser.
 
 ---
-[Live Preview ](https://bismayaportfolio.netlify.app/)
+[Live Preview 🚀](https://bismayaportfolio.netlify.app/)
+<img src="https://i.postimg.cc/y8jS9pTr/Screenshot-2026-01-06-130723.png" width="400"/>
 
 ## 🛠️ Tech Stack Used
 
