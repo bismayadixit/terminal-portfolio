@@ -5,7 +5,7 @@ The goal of this project is to simulate a command-line experience inside a web b
 
 ---
 [Live Preview 🚀](https://bismayaportfolio.netlify.app/)
-<img src="https://i.postimg.cc/y8jS9pTr/Screenshot-2026-01-06-130723.png" width="400"/>
+<img src="https://i.postimg.cc/y8jS9pTr/Screenshot-2026-01-06-130723.png" width="100%"/>
 
 ## 🛠️ Tech Stack Used
 
